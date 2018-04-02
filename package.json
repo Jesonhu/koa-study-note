@@ -1,0 +1,14 @@
+{
+  "name": "0.0.1",
+  "version": "1.0.0",
+  "description": "Koa学习记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesonhu",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
